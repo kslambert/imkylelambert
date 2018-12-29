@@ -1,0 +1,36 @@
+
+
+a {color: red;}
+
+nav {
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+}
+
+.post-wrap {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 15px;
+
+  .date {
+    text-align: center;
+    font-family: $header-font;
+    font-size: .875rem;
+    font-weight: 600;
+    color: $orange;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1.75px;
+  }
+
+  h1, h2 {
+    text-align: center;
+  }
+
+  img {
+    width: 120%;
+    margin-left: -10%;
+  }
+}

@@ -1,0 +1,57 @@
+$header-font: supria-sans, sans-serif;
+$body-font: ff-tisa-web-pro, serif;
+
+body {
+  font-family: $header-font;
+  font-size: 16px;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: $header-font;
+  color: $black;
+}
+
+h1 {
+  font-size: 3.25rem;
+  font-weight: 800;
+  margin: 0 auto 1.5rem;
+}
+
+h2 {
+  font-size: 1.875rem;
+  font-weight: 300;
+  margin: 0 auto 2.5rem;
+}
+
+h3 {
+  font-size: 1.375rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+}
+
+p {
+  font-family: $body-font;
+  color: $black;
+  font-size: 1.25rem;
+  line-height: 2rem;
+  margin: 0 auto 2rem;
+
+  a {
+    color: $black;
+    text-decoration: underline;
+  }
+}
+
+blockquote {
+  display: table;
+  border-bottom: 5px solid $light-green;
+  margin: 0 auto 2rem;
+
+  p {
+    font-family: $header-font;
+    color: $black;
+    font-size: 1.5rem;
+    font-style: italic;
+    margin-bottom: .5rem;
+  }
+}

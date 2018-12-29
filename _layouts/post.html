@@ -1,0 +1,13 @@
+---
+layout: post
+---
+
+{% include header.html %}
+
+<article class="post-wrap">
+  <p class="date">{{ page.date | date: "%-d, %B %Y" }}</p>
+  <h1 class="post-title">{{ page.title | escape }}</h1>
+  {{ content }}
+</article>
+
+{% include footer.html %}
