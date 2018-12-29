@@ -1,8 +1,29 @@
 nav {
+  padding: 1rem;
+  margin-bottom: 3rem;
+
   ul {
+    background: $light-green;
+    border: 1px solid $black;
+    float: right;
     list-style: none;
-    padding: 0;
+    padding: .6rem 1.2rem;
+
+    li {
+      margin: .4rem auto;
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+
+    a {
+      color: $black;
+      text-decoration: none;
+    }
   }
+}
+
+.logo {
+  max-width: 87px;
 }
 
 .post-wrap {
@@ -32,5 +53,11 @@ nav {
       width: 120%;
       margin-left: -10%;
     }
+  }
+}
+
+.home-wrap {
+  h1, h2 {
+    text-align: left;
   }
 }
