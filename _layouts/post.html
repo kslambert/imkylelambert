@@ -8,6 +8,7 @@ layout: post
   <p class="date">{{ page.date | date: "%-d, %B %Y" }}</p>
   <h1 class="post-title">{{ page.title | escape }}</h1>
   {{ content }}
+  {% include mailchimp.html %}
 </article>
 
 {% include footer.html %}
