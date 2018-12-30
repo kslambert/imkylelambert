@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Blogging Like a Hacker
+title: I'm Kyle Lambert | Designer, Developer, Business Builder
 ---
 
 <article class="post-wrap home-wrap">
