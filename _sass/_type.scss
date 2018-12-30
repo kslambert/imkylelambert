@@ -58,3 +58,15 @@ blockquote {
     margin-bottom: .5rem;
   }
 }
+
+ul, ol {
+  font-family: $body-font;
+  font-size: 1.25rem;
+  line-height: 2rem;
+  list-style-position: inside;
+  margin-bottom: 2rem;
+}
+
+a {
+  color: $black;
+}
