@@ -18,10 +18,10 @@ title: I'm Kyle Lambert | Designer, Developer, Business Builder
     <li>Follow me on twitter <a href="https://twitter.com/imkylelambert" target="_blank">@imkylelambert</a></li>
     <li>Email me at <a href="mailto:imkylelambert@gmail.com">imkylelambert [at] gmail.com</a></li>
   </ul>
-  <h2>Here are some recent thoughts</h2>
-  <ul>
-    {% for post in site.posts %}
-      <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-    {% endfor %}
-  </ul>
+  <h2>Some recent articles</h2>
+
+  {% for post in site.posts %}
+    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+  {% endfor %}
+
 </article>

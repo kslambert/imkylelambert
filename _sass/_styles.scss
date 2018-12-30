@@ -8,9 +8,10 @@ nav {
     float: right;
     list-style: none;
     padding: .6rem 1.2rem;
+    font-family: $header-font;
 
     li {
-      margin: .4rem auto;
+      margin: 0 auto;
       font-size: 1.1rem;
       font-weight: 600;
     }
@@ -24,6 +25,8 @@ nav {
 
 .logo {
   max-width: 87px;
+  top: 3px;
+  position: relative;
 }
 
 .post-wrap {
@@ -63,6 +66,14 @@ nav {
   }
 }
 
-a {
-  color: $black;
+.footer-text {
+  font-size: 1rem;
+  font-family: $header-font;
+  font-weight: 600;
+  text-align: center;
+  color: #fff;
+  width: 100%;
+  background: $black;
+  margin: 2rem 0 0;
+  padding: .5rem 0;
 }
