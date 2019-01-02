@@ -22,19 +22,14 @@
   <meta property="og:type" content="article">
   <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:image" content="{{ site.url }}/thumbs/{{ page.image }}" />
-  <meta property="og:site_name" content="WebJeda Blog">
-  <meta property="article:publisher" content="http://www.facebook.com/webjeda" />
-  <meta property="article:author" content="https://www.facebook.com/sharu725" />
+  <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+  <meta property="og:site_name" content="imkylelambert.com">
   <meta property="article:published_time" content="{{ page.date }}" />
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
   <meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:site" content="@webjeda" />
-  <meta name="twitter:creator" content="@sharathdt">
-  <meta name="twitter:card" content="summary">
-
 </head>
 <body>
   <nav class="main-nav">

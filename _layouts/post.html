@@ -5,9 +5,9 @@ layout: post
 {% include header.html %}
 
 <article class="post-wrap">
-  <p class="date">{{ page.date | date: "%-d, %B %Y" }}</p>
   <h1 class="post-title">{{ page.title | escape }}</h1>
   {{ content }}
+  <p class="date">Posted by Kyle Lambert on {{ page.date | date: "%B %-d, %Y" }}</p>
   {% include mailchimp.html %}
 </article>
 

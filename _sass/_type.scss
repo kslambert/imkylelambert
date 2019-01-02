@@ -4,13 +4,13 @@ $body-font: ff-tisa-web-pro, serif;
 %link {
   color: $black;
   text-decoration: none;
-  box-shadow: 0 3px 0 0 $yellow;
+  box-shadow: 0 2px 0 0 $yellow;
   display: inline-block;
   line-height: 1.6rem;
 
   &:hover {
     background: $light-gray;
-    box-shadow: 0 5px 0 0 $yellow;
+    box-shadow: 0 4px 0 0 $yellow;
   }
 }
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "“You can be anything you want to be” is bad advice"
+description: Being whatever we want to be may not actually be great for us
 date:   2018-12-29
+image: /img/posts/be-anything.jpg
 ---
 
 ![Be anything you want to be is bad advice](img/posts/be-anything.jpg "Be anything")

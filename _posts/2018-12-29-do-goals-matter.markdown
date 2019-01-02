@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Do goals really matter?"
+description: What do goals really do for us? Are the something we should use?
 date:   2018-12-29
+image: /img/posts/goals.jpg
 ---
 
 ![Do goals really matter](img/posts/goals.jpg "Do goals matter")
