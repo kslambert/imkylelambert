@@ -18,7 +18,10 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Kyle Lambert is a designer living and working in Portland Oregon
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://imkylelambert.com" # the base hostname & protocol for your site, e.g. http://example.com
+plugins:
+  - jekyll-sitemap
+
 twitter_username: imkylelambert
 github_username:  jekyll
 permalink: :title:output_ext
@@ -28,6 +31,7 @@ markdown: kramdown
 #theme: minima
 plugins:
   - jekyll-feed
+
 sass:
   sass_dir: _sass
   style: compressed # possible values: nested expanded compact compressed
