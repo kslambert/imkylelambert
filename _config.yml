@@ -21,6 +21,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://imkylelambert.com" # the base hostname & protocol for your site, e.g. http://example.com
 plugins:
   - jekyll-sitemap
+plugins:
+  - jekyll-feed
 
 twitter_username: imkylelambert
 github_username:  jekyll
@@ -29,8 +31,6 @@ permalink: :title:output_ext
 # Build settings
 markdown: kramdown
 #theme: minima
-plugins:
-  - jekyll-feed
 
 sass:
   sass_dir: _sass
