@@ -6,7 +6,7 @@ date:   2018-12-29
 image: /img/posts/goals.jpg
 ---
 
-![Do goals really matter](img/posts/goals.jpg "Do goals matter")
+![Do goals really matter](/img/posts/goals.jpg "Do goals matter")
 
 Historically I’ve not been a person that brainstorms or works towards goals. I don't make checklists, and I have a hard time connecting my day to day with ambitious dreams. Goals just didn't seem to help me. So naturally I avoided them and they became things to ignore. Let other people worry about goals.
 

@@ -25,7 +25,7 @@ plugins:
 
 twitter_username: imkylelambert
 github_username:  jekyll
-permalink: :title:output_ext
+permalink: /:title/
 
 # Build settings
 markdown: kramdown

@@ -6,7 +6,7 @@ date:   2018-12-29
 image: /img/posts/be-anything.jpg
 ---
 
-![Be anything you want to be is bad advice](img/posts/be-anything.jpg "Be anything")
+![Be anything you want to be is bad advice](/img/posts/be-anything.jpg "Be anything")
 
 The day was hot, candy was bouncing off the streets like raindrops in a spring rain storm. The smell of charcoal and hotdogs filled the air and patriotic melodies filled the streets. It is the forth of July, one of the most exciting kid holidays of the year. You are sitting with your family on a steaming sidewalk watching hodge-podge floats go by. At the moment your biggest concern is fighting off the other kids when the good candy starts flying. Sure you have scavenged some cheap hard candies and sweat tarts. But you are ready for the real prize. You know that someone has a bucket stocked with the real goods and the Tootsie Pops are begging to be set free.
 

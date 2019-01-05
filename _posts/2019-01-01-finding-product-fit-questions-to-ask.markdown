@@ -6,7 +6,7 @@ date:   2018-12-29
 image: /img/posts/product-market-fit-questions.jpg
 ---
 
-![Product market fit questions](img/posts/product-market-fit-questions.jpg "Product market fit questions")
+![Product market fit questions](/img/posts/product-market-fit-questions.jpg "Product market fit questions")
 
 It happens all the time. A talented individual quits their job to pursue a business based on an untested idea/hunch. They spend months in a vacuum living on savings, with the goal of shipping a product.
 
