@@ -8,7 +8,7 @@ title: I'm Kyle Lambert | Designer, Developer, Business Builder
 
 <article class="post-wrap home-wrap">
   <h1>Hey, I&rsquo;m Kyle Lambert</h1>
-  <h2>Simply put, I build things.</h2>
+  <h2>Simply put, I make things and help people.</h2>
   <p>I research, design, draw, write, and code. I live in "sunny" Portland, OR with <a href="https://thefittutor.com/" target="_blank">my wife Allison</a> and two pups Chainsaw and Samurai Warrior Princess. Currently I spend my days helping change the way people rent at <a href="https://cozy.co/">Cozy.co</a>.</p>
 
   <h2>Around the web</h2>
