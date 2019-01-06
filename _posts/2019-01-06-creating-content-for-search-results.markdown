@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Writing content that gets ranked in Google. What I have learned."
+title:  "Writing content that gets ranked in Google. What I have learned"
 description: Just because you write and publish content doesn't mean it will be found. Take these steps towards helping your content rank in google.
 date:   2019-01-06
 image: /img/posts/google-search.jpg
